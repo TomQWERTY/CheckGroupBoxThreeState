@@ -1,0 +1,17 @@
+F:\Univer\cross\checkbox\bin\Debug\net6.0-windows\checkbox.exe
+F:\Univer\cross\checkbox\bin\Debug\net6.0-windows\checkbox.deps.json
+F:\Univer\cross\checkbox\bin\Debug\net6.0-windows\checkbox.runtimeconfig.json
+F:\Univer\cross\checkbox\bin\Debug\net6.0-windows\checkbox.dll
+F:\Univer\cross\checkbox\bin\Debug\net6.0-windows\checkbox.pdb
+F:\Univer\cross\checkbox\obj\Debug\net6.0-windows\checkbox.csproj.AssemblyReference.cache
+F:\Univer\cross\checkbox\obj\Debug\net6.0-windows\checkbox.Form1.resources
+F:\Univer\cross\checkbox\obj\Debug\net6.0-windows\checkbox.csproj.GenerateResource.cache
+F:\Univer\cross\checkbox\obj\Debug\net6.0-windows\checkbox.GeneratedMSBuildEditorConfig.editorconfig
+F:\Univer\cross\checkbox\obj\Debug\net6.0-windows\checkbox.AssemblyInfoInputs.cache
+F:\Univer\cross\checkbox\obj\Debug\net6.0-windows\checkbox.AssemblyInfo.cs
+F:\Univer\cross\checkbox\obj\Debug\net6.0-windows\checkbox.csproj.CoreCompileInputs.cache
+F:\Univer\cross\checkbox\obj\Debug\net6.0-windows\checkbox.dll
+F:\Univer\cross\checkbox\obj\Debug\net6.0-windows\refint\checkbox.dll
+F:\Univer\cross\checkbox\obj\Debug\net6.0-windows\checkbox.pdb
+F:\Univer\cross\checkbox\obj\Debug\net6.0-windows\checkbox.genruntimeconfig.cache
+F:\Univer\cross\checkbox\obj\Debug\net6.0-windows\ref\checkbox.dll
